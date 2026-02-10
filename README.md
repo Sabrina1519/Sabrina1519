@@ -5,7 +5,7 @@
 
 Je m’intéresse particulièrement à :
 
-   🔍 L’analyse de données avancée
+   🔍 L’analyse de données avancée <br>
    🤖 Le machine learning
    ⚙️ L’automatisation
    📊 La visualisation interactive
