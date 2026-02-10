@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<Étudiante motivée en Applied Data Science, je développe des compétences solides en manipulation, analyse et interprétation des données. Mon objectif est de transformer l’information brute en insights utiles pour la prise de décision.
+Étudiante motivée en Applied Data Science, je développe des compétences solides en manipulation, analyse et interprétation des données. Mon objectif est de transformer l’information brute en insights utiles pour la prise de décision.
 
 Je m’intéresse particulièrement à :
 
