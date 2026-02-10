@@ -1,50 +1,42 @@
-## Hi there 👋
+# Bienvenue👋 !
 
-Étudiante motivée en Applied Data Science, je développe des compétences solides en manipulation, analyse et interprétation des données. Mon objectif est de transformer l’information brute en insights utiles pour la prise de décision.
+  Je suis Sabrina, étudiante motivée en Applied Data Science. Je développe des compétences solides en manipulation, analyse et interprétation des données, avec pour objectif de transformer l’information brute en insights exploitables pour la prise de décision.
+
 
 Je m’intéresse particulièrement à :
 
-L’analyse de données avancée
+   🔍 L’analyse de données avancée
+   🤖 Le machine learning
+   ⚙️ L’automatisation
+   📊 La visualisation interactive
+   🗄️ L’optimisation SQL
 
-Le machine learning
 
-L’automatisation
+Je travaille à renforcer mes compétences à travers des projets concrets basés sur Python et SQL.
 
-La visualisation interactive
-
-L’optimisation SQL
-
-Je cherche constamment à améliorer mes compétences et à développer des projets concrets basés sur Python et SQL.
-
-🧠 Compétences Techniques
-📌 Langages et Outils
+ # 🧠 Compétences Techniques
+ ## 📌 Langages & Outils
 
 Python : NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
-SQL : MySQL
+  SQL : MySQL
+  Outils : Git/GitHub, Jupyter Notebook, VS Code
+  Autres : Excel (analyse, tableaux croisés dynamiques)
 
-Git / GitHub : organisation de projets
+## 📊 Data Science et Analyse
 
-Jupyter Notebook, VS Code
+   Préparation et nettoyage des données
+   Analyse descriptive et exploratoire (EDA)
+   Visualisation de données
+   Modélisation machine learning (classification, régression)
+   Création de pipelines simples pour automatiser les étapes d’analyse
 
-Excel (analyse, tableaux croisés)
+## 🗄️ Bases de Données
 
-📊 Data Science et Analyse
+   Conception de schémas de bases de données
+   Requêtes avancées : jointures, sous-requêtes, agrégations
+   Manipulation de jeux de données volumineux
 
-Préparation et nettoyage des données
+# 🚀 Objectif
 
-Analyse descriptive et exploratoire (EDA)
-
-Visualisation de données
-
-Modèlisation ML (classification, régression)
-
-Implémentation de pipelines simples
-
-🗄️ Bases de Données
-
-Conception de schémas
-
-Requêtes avancées, jointures, sous-requêtes
-
-Gestion de données volumineuses
+Continuer à développer des projets pratiques pour renforcer mes compétences et contribuer au domaine de la data science
