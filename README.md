@@ -1,21 +1,21 @@
 # Bienvenue👋 !
 
-  Je suis Sabrina, étudiante motivée en Applied Data Science. Je développe des compétences solides en manipulation, analyse et interprétation des données, avec pour objectif de transformer l’information brute en insights exploitables pour la prise de décision.
+Je suis Sabrina, étudiante motivée en Applied Data Science. Je développe des compétences solides en manipulation, analyse et interprétation des données, avec pour objectif de transformer l’information brute en insights exploitables pour la prise de décision.
 
 
 Je m’intéresse particulièrement à :
 
    🔍 L’analyse de données avancée <br>
-   🤖 Le machine learning
-   ⚙️ L’automatisation
-   📊 La visualisation interactive
-   🗄️ L’optimisation SQL
+   🤖 Le machine learning<br>
+   ⚙️ L’automatisation<>br
+   📊 La visualisation interactive<br>
+   🗄️ L’optimisation SQL<br>
 
 
 Je travaille à renforcer mes compétences à travers des projets concrets basés sur Python et SQL.
 
  # 🧠 Compétences Techniques
- ## 📌 Langages & Outils
+ ## 📌 Langages et Outils
 
 Python : NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
