@@ -1,6 +1,6 @@
 # Bienvenue👋 !
 
-Je suis Sabrina, étudiante motivée en Applied Data Science. Je développe des compétences solides en manipulation, analyse et interprétation des données, avec pour objectif de transformer l’information brute en insights exploitables pour la prise de décision.
+Motivée en Applied Data Science. Je développe des compétences solides en manipulation, analyse et interprétation des données, avec pour objectif de transformer l’information brute en insights exploitables pour la prise de décision.
 
 
 Je m’intéresse particulièrement à :
